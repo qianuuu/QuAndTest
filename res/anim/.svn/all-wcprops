@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gameworld/!svn/ver/840/branches/android/QuAndTest/res/anim
+END
+translate_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gameworld/!svn/ver/840/branches/android/QuAndTest/res/anim/translate_anim.xml
+END
+rotate_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gameworld/!svn/ver/840/branches/android/QuAndTest/res/anim/rotate_anim.xml
+END
+alpha_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gameworld/!svn/ver/840/branches/android/QuAndTest/res/anim/alpha_anim.xml
+END
+scale_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gameworld/!svn/ver/840/branches/android/QuAndTest/res/anim/scale_anim.xml
+END
